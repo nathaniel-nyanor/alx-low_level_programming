@@ -1,1 +1,1 @@
-0X06-POINTERS, ARRAYS AND STRINGS
+0x06. C - More pointers, arrays and strings

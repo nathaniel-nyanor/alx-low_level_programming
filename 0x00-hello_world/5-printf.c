@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * main - a program that uses printf not puts
+ * Return:0(Success);
  */
 int main(void)
 {
